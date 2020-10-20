@@ -10,8 +10,8 @@ Custom Mechanical Keyboard PCB that will eventually have a Natural/Ergonomic lay
 ## PCB Reverse
 ![Reverse PCB Design](https://github.com/cyberknet/NaturalKeyboard/raw/main/Preview/back_pcb.svg)
 
-Render Front
-![Board Render Front](https://github.com/cyberknet/NaturalKeyboard/blob/main/Preview/Render-Front.png?raw=true
+## Render Front
+![Board Render Front](https://github.com/cyberknet/NaturalKeyboard/blob/main/Preview/Render-Front.png?raw=true)
 
-Render Reverse
-![Board Render Back](https://github.com/cyberknet/NaturalKeyboard/blob/main/Preview/Render-Reverse.png?raw=true)
+## Render Reverse
+![Board Render Back](https://github.com/cyberknet/NaturalKeyboard/blob/main/Preview/Render-Back.png?raw=true)
